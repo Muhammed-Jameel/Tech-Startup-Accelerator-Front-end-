@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Home } from './home';","map":{"version":3,"names":["default","Home"],"sources":["/Users/muhammedjameel/WEB-projects/Hub200/task1/src/pages/index.js"],"sourcesContent":["export { default as Home } from './home'"],"mappings":"AAAA,SAASA,OAAO,IAAIC,IAAI,QAAQ,QAAQ"},"metadata":{},"sourceType":"module","externalDependencies":[]}
